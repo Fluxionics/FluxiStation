@@ -2,9 +2,12 @@
 # 🎙️ Fluxi Station | Radio Pro Full
 > **The Next-Gen Broadcast & Automation Suite** Fluxi Station es una solución integral de nivel profesional diseñada para la automatización de radio FM y transmisión multicanal en streaming. Desarrollado para ofrecer estabilidad 24/7, latencia ultra baja y un procesamiento de audio que rivaliza con hardware dedicado.
 
-[![Version](https://img.shields.io/badge/Version-1.0.0--beta-blueviolet?style=for-the-badge)](https://github.com/fluxionics/fluxi-station)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green?style=for-the-badge)](https://github.com/fluxionics/fluxi-station)
-[![Platform](https://img.shields.io/badge/Platform-Windows%20|%20macOS-lightgrey?style=for-the-badge)](https://github.com/tu-usuario/fluxi-station)
+[![Version](https://img.shields.io/badge/Version-1.0.0--beta-blueviolet?style=for-the-badge)](https://github.com/fluxionics/Fluxi-Station-Radio-Pro-Full
+)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green?style=for-the-badge)](https://github.com/fluxionics/Fluxi-Station-Radio-Pro-Full
+)
+[![Platform](https://img.shields.io/badge/Platform-Windows%20|%20macOS-lightgrey?style=for-the-badge)](https://github.com/fluxionics/Fluxi-Station-Radio-Pro-Full
+)
 
 ---
 
