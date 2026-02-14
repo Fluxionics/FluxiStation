@@ -1,3 +1,4 @@
+# VERSION: 1.0.0
 # 🎙️ FLUXI STATION - SISTEMA COMPLETO Y FUNCIONAL
 
 ## ✅ **SISTEMA PROFESIONAL DE RADIO LISTO PARA USAR**
@@ -13,7 +14,7 @@
 
 ### **Paso 2: Instalar Fluxi Station**
 ```bash
-cd FluxiStationFinal
+cd FluxiStation
 npm install
 ```
 
